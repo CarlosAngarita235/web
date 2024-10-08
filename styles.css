@@ -419,7 +419,7 @@ body {
 
 
 
-.language-switcher {
+#language-switcher {
     position: fixed;
     top: 10px;
     right: 10px;
